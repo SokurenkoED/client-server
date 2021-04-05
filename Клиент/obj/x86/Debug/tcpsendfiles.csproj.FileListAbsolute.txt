@@ -1,0 +1,10 @@
+C:\Users\Evgeniy-boss\Desktop\клиент форма\bin\Debug\TcpSendFiles.exe.config
+C:\Users\Evgeniy-boss\Desktop\клиент форма\bin\Debug\TcpSendFiles.exe
+C:\Users\Evgeniy-boss\Desktop\клиент форма\bin\Debug\TcpSendFiles.pdb
+C:\Users\Evgeniy-boss\Desktop\клиент форма\obj\x86\Debug\tcpsendfiles.csprojAssemblyReference.cache
+C:\Users\Evgeniy-boss\Desktop\клиент форма\obj\x86\Debug\TcpSendFiles.Form1.resources
+C:\Users\Evgeniy-boss\Desktop\клиент форма\obj\x86\Debug\TcpSendFiles.Properties.Resources.resources
+C:\Users\Evgeniy-boss\Desktop\клиент форма\obj\x86\Debug\tcpsendfiles.csproj.GenerateResource.cache
+C:\Users\Evgeniy-boss\Desktop\клиент форма\obj\x86\Debug\tcpsendfiles.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniy-boss\Desktop\клиент форма\obj\x86\Debug\TcpSendFiles.exe
+C:\Users\Evgeniy-boss\Desktop\клиент форма\obj\x86\Debug\TcpSendFiles.pdb

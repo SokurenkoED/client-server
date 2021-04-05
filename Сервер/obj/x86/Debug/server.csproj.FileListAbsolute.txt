@@ -1,0 +1,20 @@
+C:\Users\Evgeniy-boss\Desktop\сервер форма\bin\Debug\TcpSendFiles.exe.config
+C:\Users\Evgeniy-boss\Desktop\сервер форма\bin\Debug\TcpSendFiles.exe
+C:\Users\Evgeniy-boss\Desktop\сервер форма\bin\Debug\TcpSendFiles.pdb
+C:\Users\Evgeniy-boss\Desktop\сервер форма\obj\x86\Debug\server.csprojAssemblyReference.cache
+C:\Users\Evgeniy-boss\Desktop\сервер форма\obj\x86\Debug\TcpSendFiles.Form1.resources
+C:\Users\Evgeniy-boss\Desktop\сервер форма\obj\x86\Debug\TcpSendFiles.Properties.Resources.resources
+C:\Users\Evgeniy-boss\Desktop\сервер форма\obj\x86\Debug\server.csproj.GenerateResource.cache
+C:\Users\Evgeniy-boss\Desktop\сервер форма\obj\x86\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniy-boss\Desktop\сервер форма\obj\x86\Debug\TcpSendFiles.exe
+C:\Users\Evgeniy-boss\Desktop\сервер форма\obj\x86\Debug\TcpSendFiles.pdb
+C:\Users\Evgeniy-boss\Desktop\сервер форма - готовая\bin\Debug\TcpSendFiles.exe.config
+C:\Users\Evgeniy-boss\Desktop\сервер форма - готовая\bin\Debug\TcpSendFiles.exe
+C:\Users\Evgeniy-boss\Desktop\сервер форма - готовая\bin\Debug\TcpSendFiles.pdb
+C:\Users\Evgeniy-boss\Desktop\сервер форма - готовая\obj\x86\Debug\server.csprojAssemblyReference.cache
+C:\Users\Evgeniy-boss\Desktop\сервер форма - готовая\obj\x86\Debug\TcpSendFiles.Form1.resources
+C:\Users\Evgeniy-boss\Desktop\сервер форма - готовая\obj\x86\Debug\TcpSendFiles.Properties.Resources.resources
+C:\Users\Evgeniy-boss\Desktop\сервер форма - готовая\obj\x86\Debug\server.csproj.GenerateResource.cache
+C:\Users\Evgeniy-boss\Desktop\сервер форма - готовая\obj\x86\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniy-boss\Desktop\сервер форма - готовая\obj\x86\Debug\TcpSendFiles.exe
+C:\Users\Evgeniy-boss\Desktop\сервер форма - готовая\obj\x86\Debug\TcpSendFiles.pdb
